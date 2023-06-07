@@ -8,7 +8,7 @@ A folder and files naming conventions helper. Its main purpose, is to help with 
 My philosophy is simplicity, usability and clarity over all. The system should be scalable, easy to follow and easy to use. If you struggle to find a file quickly and create new ones fast, then the system fails. 
 
 
-This is where this tool comes in. It first helps you create the initial workspace folder and then can be run either as a linter of new file generator.
+This is where this tool comes in. It first helps you create the initial workspace folder and then can be run either as a linter or new file generator.
 
 <details>
 <summary><h2>Conventions</h2></summary>
@@ -84,5 +84,5 @@ Keep it simple if possible:
 
 ## Configuration
 
-
+## License
 
