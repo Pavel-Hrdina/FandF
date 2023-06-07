@@ -84,6 +84,8 @@ Keep it simple if possible:
 
 ## Configuration
 
+## Roadmap
+
 ## License
 
 This project is using [GNU General Public License v3.0](./LICENSE)
