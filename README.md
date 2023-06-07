@@ -49,7 +49,8 @@ You can also:
 
 * Use dates to enhance sorting and sustainability.
 
-> :warning: **do not use the following:**
+> **Warning** 
+> do not use the following:
 
 * Special characters that are used by the operating system.
 
