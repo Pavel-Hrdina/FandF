@@ -68,21 +68,21 @@ Keep it simple if possible:
 
 </details>
 
-# Usage
+## Usage
 
 ```bash
 # Initial commit
 ```
 
-# Installation
+## Installation
 
 ```bash
 # Initial commit
 ```
 
-# Setup
+## Setup
 
-# Configuration
+## Configuration
 
 
 
