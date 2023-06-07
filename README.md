@@ -11,11 +11,11 @@ My philosophy is simplicity, usability and clarity over all. The system should b
 This is where this tool comes in. It first helps you create the initial workspace folder and then can be run either as a linter of new file generator.
 
 <details>
-<summary><h2>Conventions</h2></summary>
+<summary><h3>Conventions</h3></summary>
 
 Here is the list of conventions that this tool tries to inforce in the generation process.
 
-### Common Language
+#### Common Language
 
 This is up to the user and is not checked by this tool.
 
@@ -23,7 +23,7 @@ This is up to the user and is not checked by this tool.
 
 * User should be able to identify the contents/contex of a file by its name. 
 
-### Level of Importence
+#### Level of Importence
 
 This is the importance level indicated by a number at the beggining of the file. 
 
@@ -35,7 +35,7 @@ This is the importance level indicated by a number at the beggining of the file.
 
 * Give relevant information to the person scaning the files.
 
-### Formatting 
+#### Formatting 
 
 * Length - should be as short as possible, while retaining meaning.
 
@@ -54,7 +54,7 @@ You can also:
 
 * Special characters that are used by the operating system.
 
-### Naming conventions
+#### Naming conventions
 
 Keep it simple if possible:
 
