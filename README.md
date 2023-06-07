@@ -3,7 +3,7 @@
 A folder and files naming conventions helper. Its main purpose, is to help with maintaining a folder structure of a workspace by following a strict system of rules that help maintain the project over a long period of time. In the end, the tool should help you follow a system for your workspacefolder structure.
 
 <details>
-<summary># Philosophy</summary>
+# <summary>Philosophy</summary>
 
 My philosophy is simplicity, usability and clarity over all. The system should be scalable, easy to follow and easy to use. If you struggle to find a file quickly and create new ones fast, then the system fails. 
 
@@ -65,7 +65,7 @@ Keep it simple if possible:
 
 **Files examples:**
 
-<details>
+</details>
 
 # Usage
 
