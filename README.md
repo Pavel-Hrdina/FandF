@@ -88,4 +88,4 @@ Keep it simple if possible:
 
 ## License
 
-This project is using [GNU General Public License v3.0](./LICENSE)
+This project is using (GNU General Public License v3.0)[./LICENSE]
