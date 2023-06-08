@@ -70,9 +70,15 @@ Keep it simple if possible:
 
 ## Usage
 
+The installer adds a fandf command for the current user. Use `fandf --help` to list all the avalible options.  
+
 ```bash
-# Initial commit
+fandf (todo)
 ```
+
+| Command   | Description                           |
+|---------- |---------------------------------------|
+| `generate`| Generates a new workspace.            |
 
 ## Installation
 
@@ -88,4 +94,4 @@ Keep it simple if possible:
 
 ## License
 
-This project is using (GNU General Public License v3.0)[./LICENSE]
+This project is using [GNU General Public License v3.0](./LICENSE)
