@@ -134,17 +134,19 @@ todo
     - [ ] Finish the initial documentation 
     - [ ] Make a rought plan
 
-2. Create a contributions template 
+2. [ ] Create a contributions template 
     - [ ] Create contributions guideline
 
-3. Prepare CI pipeline
+3. [ ] Prepare CI pipeline
     - [ ] Use github actions 
     - [ ] Pipeline:
 
-4. Start work on version 0.0.1 after documentation is finished
+4. [ ] Create a branching strategy
+
+5. Start work on version 0.0.1 after documentation is finished
     - [ ] Create a changelog 
 
-4. [ ] Start the project clean
+6. [ ] Start the project clean
     - [ ] Create the 1st tests
     - [ ] Start with utilities and then create the cli ui 
 
