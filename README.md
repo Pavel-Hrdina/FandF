@@ -128,7 +128,7 @@ todo
 
 ## Roadmap
 
-- <s> [x] Create the git repo </s>
+- [x] <s> Create the git repo </s>
 
 - [ ] Finish planning of the projects early stage 
     - [ ] Finish the initial documentation 
