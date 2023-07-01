@@ -2,6 +2,23 @@
 
 A folder and files naming conventions helper. Its main purpose, is to help with maintaining a folder structure of a workspace by following a strict system of rules that help maintain the project over a long period of time. In the end, the tool should help you follow a system for your workspacefolder structure.
 
+## Table of Contents
+
+- [FandF (Folders and files naming conventions helper )](#fandf--folders-and-files-naming-conventions-helper--)
+  * [TOC](#toc)
+  * [Philosophy](#philosophy)
+    + [Common Language](#common-language)
+    + [Level of Importence](#level-of-importence)
+    + [Formatting](#formatting)
+    + [Naming conventions](#naming-conventions)
+  * [Usage](#usage)
+  * [Installation](#installation)
+  * [Setup](#setup)
+  * [Configuration](#configuration)
+    + [Using the configuration](#using-the-configuration)
+  * [Roadmap](#roadmap)
+- [Contributions](#contributions)
+  * [License](#license)
 
 ## Philosophy
 
@@ -13,7 +30,7 @@ This is where this tool comes in. It first helps you create the initial workspac
 <details>
 <summary><h2>Conventions</h2></summary>
 
-Here is the list of conventions that this tool tries to inforce in the generation process.
+Here is the list of conventions that this tool tries to inforce in the generation process and later on when linting a directory from its root down.
 
 ### Common Language
 
@@ -68,6 +85,19 @@ Keep it simple if possible:
 
 </details>
 
+<details>
+<summary><h2>Supported file system</h2></summary>
+
+This tools supports multiple file systems out of the box, as every project is different. On the graph bellow, you can see the intended usage of eatch file system. You can chose to use them or use your own system by creating a [config](#configuration) that specifies your system exactly.
+
+Out of the box file systems:
+
+<br><br>
+
+__todo__
+
+</details>
+
 ## Usage
 
 The installer adds a fandf command for the current user. Use `fandf --help` to list all the avalible options.  
@@ -90,7 +120,37 @@ fandf (todo)
 
 ## Configuration
 
+Your can configure this tool based on your need and your project requirements. This tool uses yaml for its configuration as of now. Here are the options you can use to configure a file system that suits your needs.     
+
+### Using the configuration
+
+todo
+
 ## Roadmap
+
+0. ~~[x] Create the git repo~~
+
+1. [ ] Finish planning of the projects early stage 
+    - [ ] Finish the initial documentation 
+    - [ ] Make a rought plan
+
+2. Create a contributions template 
+    - [ ] Create contributions guideline
+
+3. Prepare CI pipeline
+    - [ ] Use github actions 
+    - [ ] Pipeline:
+
+4. Start work on version 0.0.1 after documentation is finished
+    - [ ] Create a changelog 
+
+4. [ ] Start the project clean
+    - [ ] Create the 1st tests
+    - [ ] Start with utilities and then create the cli ui 
+
+# Contributions
+
+todo
 
 ## License
 
