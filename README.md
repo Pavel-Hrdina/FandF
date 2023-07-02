@@ -1,4 +1,4 @@
-# FandF (Folders and files naming conventions helper )
+<h1 align="center"> FandF (Folders and files naming conventions helper ) </h1>
 
 A folder and files naming conventions helper. Its main purpose, is to help with maintaining a folder structure of a workspace by following a strict system of rules that help maintain the project over a long period of time. In the end, the tool should help you follow a system for your workspacefolder structure.
 
@@ -23,7 +23,6 @@ A folder and files naming conventions helper. Its main purpose, is to help with 
 ## Philosophy
 
 My philosophy is simplicity, usability and clarity over all. The system should be scalable, easy to follow and easy to use. If you struggle to find a file quickly and create new ones fast, then the system fails. 
-
 
 This is where this tool comes in. It first helps you create the initial workspace folder and then can be run either as a linter or new file generator.
 
@@ -85,18 +84,13 @@ Keep it simple if possible:
 
 </details>
 
-<details>
-<summary><h2>Supported file system</h2></summary>
+<h2>Supported file system</h2>
 
 This tools supports multiple file systems out of the box, as every project is different. On the graph bellow, you can see the intended usage of eatch file system. You can chose to use them or use your own system by creating a [config](#configuration) that specifies your system exactly.
 
 Out of the box file systems:
 
-<br>
 
-__todo__
-
-</details>
 
 ## Usage
 
